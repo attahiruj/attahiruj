@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring robotics engineer with a deep passion for embedded systems, machine learning, and problem-solving. With hands-on experience across robotics, PCB design, and 3D printing, I thrive on creating innovative solutions that bridge hardware and software. My academic background includes a BEng in Telecommunications Engineering and an MSc in Electrical and Computer Engineering, focusing on robotics, embedded software, and Machine Learning.<br><br>
+Hi! I’m a robotics enthusiast with a passion for embedded systems, machine learning, and software engineering. I love building things and enjoy getting my hands dirty solving real-world problems.<br><br>
 
 
 ## 🌐 Socials:
